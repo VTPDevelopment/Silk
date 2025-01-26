@@ -62,7 +62,7 @@
         <PackageReference Include="Microsoft.Toolkit.HighPerformance" Version="7.1.2" />
         <PackageReference Include="NodaTime" Version="3.1.9" />
         <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" />
-        <PackageReference Include="prometheus-net" Version="7.0.0" />
+        <PackageReference Include="prometheus-net" Version="8.0.1" />
         <PackageReference Include="prometheus-net.AspNetCore" Version="6.0.0" />
         <PackageReference Include="Recognizers.Text.DateTime.Wrapper" Version="1.0.5" />
         <PackageReference Include="Remora.Discord.Caching" />
