@@ -16,7 +16,7 @@
         <PackageReference Update="Remora.Discord.Caching.Abstractions" Version="1.1.2" />
         <PackageReference Update="Remora.Discord.Extensions" Version="5.3.0" />
         <PackageReference Update="Remora.Discord.Interactivity" Version="4.5.0" />
-        <PackageReference Update="Remora.Discord.API.Abstractions" Version="76.0.0" />
+        <PackageReference Update="Remora.Discord.API.Abstractions" Version="79.0.0" />
 
         <PackageReference Update="Humanizer" Version="2.14.1" />
         <PackageReference Update="Newtonsoft.Json" Version="13.0.3" />
